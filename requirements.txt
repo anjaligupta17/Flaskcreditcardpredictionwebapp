@@ -1,5 +1,4 @@
 MarkupSafe==1.1.1
-menuinst==1.4.16
 numpy==1.19.4
 pandas==1.1.4
 pycosat==0.6.3
